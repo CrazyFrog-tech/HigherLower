@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="tvInformation">Guess if the next through is going to be higher, lower  or equal</string>
+    <string name="lower">Lower</string>
+    <string name="equals">Equals</string>
+    <string name="higher">Higher</string>
+    <string name="lastThrow">TextView</string>
+    <string name="incorrect">Answer is incorrect, try again</string>
+    <string name="correct">Answer is correct, keep going</string>
+</resources>
